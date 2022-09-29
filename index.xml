@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Yuxiao Luo</title>
     <link>https://yuxiaoluo.github.io/</link>
       <atom:link href="https://yuxiaoluo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Yuxiao Luo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuxiaoluo.github.io/media/icon_hu15f4920b7deefbd178d9718ef53b7475_87889_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Yuxiao Luo</title>
       <link>https://yuxiaoluo.github.io/</link>
     </image>
     
