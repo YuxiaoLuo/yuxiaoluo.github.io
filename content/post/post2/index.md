@@ -1,16 +1,17 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
-authors:
-  - admin
-tags:
-  - Second Brain
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+title: 🧠 More posts coming soon...
+# summary: Create a personal knowledge base and share your knowledge with your peers.
+# date: 2023-10-26
+# authors:
+#   - admin
+# tags:
+#   - Second Brain
+#   - Markdown
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
+<!--
 Create a personal knowledge base and share your knowledge with your peers.
 
 Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
@@ -134,5 +135,6 @@ Or use the `warning` callout type so your readers don't miss critical details:
 {{% callout warning %}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 {{% /callout %}}
+-->
 
 ## Did you find this page helpful? Consider sharing it 🙌
