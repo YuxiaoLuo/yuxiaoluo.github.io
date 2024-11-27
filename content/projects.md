@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text:  I enjoy exploring the technology.
+      text:  I enjoy exploring technology.
       filters:
         folders:
           - project
