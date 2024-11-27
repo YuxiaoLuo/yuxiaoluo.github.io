@@ -71,8 +71,8 @@ work:
     # company_logo: ''
     date_start: 2024-01-19
     date_end: ''
-    summary: |2-
-      Responsibility:
+    summary: |1-
+      Responsibilities:
       - Curriculum committee member (AI & Analytics)
       - AI Task Force for Walker College of Business
      
