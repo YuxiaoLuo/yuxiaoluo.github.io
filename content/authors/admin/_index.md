@@ -133,4 +133,4 @@ languages:
 
 ## About Me
 
-Dr. Yuxiao (Rain) Luo, is an Assistant Professor in Information Systems. His research interests include AI nudging, Gen AI, Cybersecurity, and CSR. Before, he was an independent music producer.Check out his music at the NFT platform [Open Sea](https://opensea.io/collection/rainshell-pinksunset).
+Dr. Yuxiao (Rain) Luo, is an Assistant Professor in Information Systems. His research interests include AI nudging, Gen AI, Cybersecurity, and CSR. Before, he was an independent music producer. Check out his music at the NFT platform [Open Sea](https://opensea.io/collection/rainshell-pinksunset).
