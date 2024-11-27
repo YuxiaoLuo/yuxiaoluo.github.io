@@ -100,7 +100,7 @@ skills:
       - name: Music
         description: ''
         percent: 60
-        icon: custom/music-note
+        icon: custom/musical-note
       - name: Badminton
         description: ''
         percent: 100
