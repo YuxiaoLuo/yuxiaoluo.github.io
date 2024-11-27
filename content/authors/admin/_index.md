@@ -53,7 +53,7 @@ education:
   - area: PhD in Management Information Systems (Business)
     institution: The Graduate Center & Baruch College, City University of New York
     #date_start: ''
-    #date_end: ''
+    date_end: '2023'
     summary: |
       Dissertation title "Investigation of Algorithmic Nudging on Decision Quality: Evidence from Randomized Experiments in Online Recommendation Settings."
     #button:
@@ -62,7 +62,7 @@ education:
   - area: MS in Applied Statistics & Decision Making
     institution: Fordham University
     #date_start: ''
-    #date_end: ''
+    date_end: '2017'
   
 work:
   - position: Assitant Professor in Computer Information Systems
@@ -101,15 +101,15 @@ skills:
       - name: Music
         description: ''
         percent: 60
-        icon: 
+        icon: 🎶
       - name: Badminton
         description: ''
         percent: 100
-        icon: 
+        icon: 🏸
       - name: Ultimate frisbee
         description: ''
         percent: 80
-        icon: 
+        icon: 🏸
 
 languages:
   - name: English
