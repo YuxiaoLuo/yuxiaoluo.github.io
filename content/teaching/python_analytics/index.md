@@ -12,7 +12,7 @@ image:
 ---
 
 ### Course Description
-This CIS3120 course, Programming for Analytics using Python ([GitHub repo](https://github.com/YuxiaoLuo/Analytics_Python)) ,introduces the aspects of programming that can support business analytics. The course covers hands-on issues in programming for analytics which include accessing data, creating informative data graphics, writing functions, debugging, and organizing and commenting code. Basic knowledge of Python is requried.
+This CIS3120 course, Programming for Analytics using Python ([GitHub repo](https://github.com/YuxiaoLuo/Analytics_Python)), introduces the aspects of programming that can support business analytics. The course covers hands-on issues in programming for analytics which include accessing data, creating informative data graphics, writing functions, debugging, and organizing and commenting code. Basic knowledge of Python is requried.
 
 ### Course Schedule
 Please follow the official syllabus and find the folder for each week. IPython Notebook file is included in each weekly folder.
