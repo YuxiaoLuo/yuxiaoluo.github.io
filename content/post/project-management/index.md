@@ -7,19 +7,16 @@ authors:
 tags:
   - cis1060
   - course chatbot
-# image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 <!-- Chatbot HTML code -->
 
 <style>
-  body {
-    margin: 0;
-    height: 100vh;
+ .wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
     background: #f0f2f5;
     font-family: Arial, sans-serif;
   }
@@ -41,10 +38,12 @@ tags:
   }
 </style>
 
-<div class="chat-container">
-  <iframe
-    src="https://copilotstudio.microsoft.com/environments/Default-0f1fb691-2393-48df-971c-93aa52a95600/bots/cre42_copilot_ciLg9/webchat?__version__=2">
-  </iframe>
+<div class="wrapper">
+  <div class="chat-container">
+    <iframe
+      src="https://copilotstudio.microsoft.com/environments/Default-0f1fb691-2393-48df-971c-93aa52a95600/bots/cre42_copilot_ciLg9/webchat?__version__=2">
+    </iframe>
+  </div>
 </div>
 
 
