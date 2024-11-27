@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm currently doing research in user behavior with AI, cybersecurity, and CSR.
+        I'm currently doing research in user behavior with AI, cybersecurity, and CSR. I employ both quantitative (i.e., causal inference) and machine learning methods as well as experimental approach in my studies.
 
-        I employ both quantitative (i.e., causal inference) and machine learning methods as well as experimental approach in my studies.
+        My research has been presented in major academic conferences and organizations such as INFORMS Annual Meeting, AMCIS, Annual NEAIS Conference, IABS Annual Conference, AoM, etc. I have received multiple research grants and the Mills & Tannenbaum Research Excellence Award 2021 from Baruch College (CUNY). I serve as reviewer for multiple peer-reviewed academic conferences and journals.
         
         Please reach out to collaborate 😃
     design:

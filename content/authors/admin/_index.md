@@ -133,5 +133,5 @@ languages:
 
 ## About Me
 
-Dr. Yuxiao (Rain) Luo, is an Assistant Professor in Information Systems. His research interests include AI nudging, Gen AI, Cybersecurity, and CSR. He teaches courses in business college, including programming analytics, AI, and cybersecurity. He created a book named [Data Analytics in Digital Research with R
+Dr. Yuxiao (Rain) Luo, is an Assistant Professor in Information Systems. His research interests include AI nudging, Gen AI, Cybersecurity, and CSR. He teaches courses in business college, including programming analytics, AI, and cybersecurity. He created an open-source book as teaching materials for data analytics, [Data Analytics in Digital Research with R
 ](https://gcdf-cuny.gitbook.io/data-analytics-in-digital-research-with-r). Before, he was an independent music producer. Check out his music at the NFT platform [Open Sea](https://opensea.io/collection/rainshell-pinksunset).
