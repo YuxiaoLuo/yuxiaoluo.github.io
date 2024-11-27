@@ -100,15 +100,15 @@ skills:
       - name: Music
         description: ''
         percent: 60
-        icon: 
+        icon: custom/music-note
       - name: Badminton
         description: ''
         percent: 100
-        icon: 
+        icon: custom/users
       - name: Ultimate frisbee
         description: ''
         percent: 80
-        icon:
+        icon: custom/user-group
 
 languages:
   - name: English
