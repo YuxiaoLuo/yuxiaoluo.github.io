@@ -1,5 +1,5 @@
 ---
-title: 🤖 Foodie GPT
+title: 🤖 Foodie GPT - NC Charlotte version
 summary: I know all the delicious Chinese food and restaurants around Charlotte, NC.
 date: 2024-11-27
 authors:
