@@ -1,5 +1,5 @@
 ---
-title: MoralSensemaking GPT ((require ChatGPT Plus))
+title: MoralSensemaking GPT (require ChatGPT Plus)
 date: 2024-06-26
 external_link: https://chatgpt.com/g/g-sNnFddFZG-moralsensemaking
 tags:
