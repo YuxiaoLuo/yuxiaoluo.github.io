@@ -10,6 +10,11 @@ tags:
   - North Carolina
 ---
 
+这个AI可以告诉你北卡夏洛特好吃的中餐和奶茶，快来调戏它吧~
+This AI knows everything about Chinese food/bubble tea around Charlotte, NC. Just talk wit it~
+
+支持中文 | English supported
+
 <!-- Chatbot HTML code -->
 
 <style>
@@ -48,4 +53,4 @@ tags:
 </div>
 
 
-If you feel the response provided by CIS1060-Dr.Luo chatbot is not accurate or not helpful, don't hesitate to contact Dr. Luo via email or schedule office hours with him 🙌
+有什么炒鸡好吃但是我还不知道的中餐吗，快点私我(xhs:RRRain)，我要把它们都加进来 🙌
