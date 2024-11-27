@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuxiao (Rain) Luo
+title: Dr. Yuxiao (Rain) Luo
 
 # Name pronunciation (optional)
 name_pronunciation: Yoo-shyow Lwaw
