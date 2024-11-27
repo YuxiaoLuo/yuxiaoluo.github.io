@@ -1,17 +1,18 @@
 ---
 title: 🤖 Foodie GPT
 summary: I know all the delicious Chinese food and restaurants around Charlotte, NC.
-date: 2024-11-26
+date: 2024-11-27
 authors:
   - Rain
 tags:
   - Chinese food
+  - Bubble tea
   - Charlotte, NC
   - North Carolina
 ---
 
-这个AI可以告诉你北卡夏洛特好吃的中餐和奶茶，快来调戏它吧~
-This AI knows everything about Chinese food/bubble tea around Charlotte, NC. Just talk wit it~
+我可以给你推荐北卡夏洛特好吃的中餐和奶茶，快来调戏我~ \\
+This AI knows everything about Chinese food/bubble tea around Charlotte, NC. Talk to me!
 
 支持中文 | English supported
 
