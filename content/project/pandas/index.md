@@ -1,13 +1,14 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: MoralSensemaking GPT
+date: 2024-06-26
+external_link: https://chatgpt.com/g/g-sNnFddFZG-moralsensemaking
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Morality
+  - Company culture
+  - CSR
+  - ChatGPT
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+This GPT is used to analyze excerpts from top management team letters in Corporate Social Responsibility (CSR) reports. The goal is to identify phrases focusing on moral and instrumental language. It can provides insights for investors who are looking into a firm's ethical culture.
 
 <!--more-->
