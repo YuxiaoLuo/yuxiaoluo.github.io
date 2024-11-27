@@ -23,9 +23,9 @@ highlight_name: true
 role: Assistant Professor in Computer Information Systems
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Walker College of Business, Appalachian State University
-    url: https://cis.appstate.edu/directory/yuxiao-rain-luo-phd
+#organizations:
+#  - name: Walker College of Business, Appalachian State University
+ #   url: https://cis.appstate.edu/directory/yuxiao-rain-luo-phd
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
