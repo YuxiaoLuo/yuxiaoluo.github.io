@@ -7,6 +7,9 @@ authors:
 tags:
   - cis1060
   - course chatbot
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+---
 ---
 
 <!-- Chatbot HTML code -->
