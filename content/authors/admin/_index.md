@@ -71,10 +71,10 @@ work:
     # company_logo: ''
     date_start: 2024-01-19
     date_end: ''
-    summary: |1-
+    summary: |2-
       Responsibilities:
-      - Curriculum committee member (AI & Analytics)
-      - AI Task Force for Walker College of Business
+      Curriculum committee member (AI & Analytics)
+      AI Task Force for Walker College of Business
      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -84,7 +84,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: custom/python-original
       - name: Data Science
         description: ''
         percent: 100
@@ -92,7 +92,7 @@ skills:
       - name: R
         description: ''
         percent: 40
-        icon: code-bracket
+        icon: custom/r-original
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -100,15 +100,15 @@ skills:
       - name: Music
         description: ''
         percent: 60
-        icon: 🎶
+        icon: 
       - name: Badminton
         description: ''
         percent: 100
-        icon: 🏸
+        icon: 
       - name: Ultimate frisbee
         description: ''
         percent: 80
-        icon: 🏸
+        icon:
 
 languages:
   - name: English
