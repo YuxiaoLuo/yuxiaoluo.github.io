@@ -130,13 +130,32 @@ languages:
     #  I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with #the significant technological trends driving the rise of deep learning; build, train, and apply fully #connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters #in a neural network’s architecture; and apply deep learning to your own applications.
 
 awards:
-  - title: Doctoral Student Research Grant 2022 (The Graduate Center, CUNY)
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    summary: |
-     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with #the significant technological trends driving the rise of deep learning; build, train, and apply fully #connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters #in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Doctoral Student Research Grant
+    date: '2020-09-01' '2022-09-01'
+    awarder: The Graduate Center (CUNY)
+
+  - title: Donald Vredenburgh Research Grant 
+    date: '2022-07-01'
+    awarder: Baruch College (CUNY)
+  
+  - title: Mills & Tannenbaum Research Excellence Award
+    url: https://zicklin.baruch.cuny.edu/wp-content/uploads/sites/10/2021/11/Zicklin_Phd_Program_Newsletter_Fall-2021_11-2-21.pdf
+    date: '2021-05-26'
+    awarder: Baruch College (CUNY)
+
+  - title: Digital Fellow Scholarship (2020 - 2023)
+    url: https://gcdi.commons.gc.cuny.edu/people/#digfel
+    awarder: The Graduate Center (CUNY)
+
+  - title: Data For Public Good Grant
+    date: '2020-02-01'
+    awarder: The Graduate Center (CUNY)
+
+  - title: John Elliot Teaching Award
+    url: https://zicklin.baruch.cuny.edu/wp-content/uploads/sites/10/2018/12/Fall2018-PhD-newsletter.pdf
+    date: '2018-05-26'
+    awarder: Baruch College (CUNY)
+
 ---
 
 ## About Me
