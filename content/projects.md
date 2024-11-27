@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text:  Here are the chatbots I've created.
+      text:  I enjoy exploring the technology.
       filters:
         folders:
           - project
