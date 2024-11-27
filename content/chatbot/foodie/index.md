@@ -11,7 +11,7 @@ tags:
   - North Carolina
 ---
 
-我可以给你推荐北卡夏洛特好吃的中餐和奶茶，快来调戏我~ \\
+我可以给你推荐北卡夏洛特好吃的中餐和奶茶 + 避雷一些难吃的，快来调戏我~ <br>
 This AI knows everything about Chinese food/bubble tea around Charlotte, NC. Talk to me!
 
 支持中文 | English supported
