@@ -12,6 +12,8 @@ tags:
 ---
 ---
 
+Ask any coursework related questions to the Chatbot below.
+
 <!-- Chatbot HTML code -->
 
 <style>
