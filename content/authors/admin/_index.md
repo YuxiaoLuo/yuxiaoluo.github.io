@@ -30,9 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:luoy@appstate.edu'
-    label: E-mail Me
+  #- icon: at-symbol
+  #  url: 'mailto:'
+  #  label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
   - icon: brands/github
@@ -50,7 +50,7 @@ interests:
   - CSR
 
 education:
-  - area: PhD Management Information Systems (Business)
+  - area: PhD in Management Information Systems (Business)
     institution: The Graduate Center/Baruch College, City University of New York
     date_start: ''
     date_end: 2023-12-01
@@ -59,7 +59,7 @@ education:
     button:
       text: 'Read Dissertation'
       url: 'https://academicworks.cuny.edu/gc_etds/5678/'
-  - area: MS Statistics
+  - area: MS in Applied Statistics & Decision Making
     institution: Fordham University
     date_start: ''
     date_end: 2016-12-31
@@ -133,4 +133,4 @@ languages:
 
 ## About Me
 
-Dr. Yuxiao (Rain) Luo, is an Assistant Professor in Information Systems. His research interests include AI nudging, Gen AI, Cybersecurity, and CSR. Before, he was an independent music producer. Check out his music at the NFT platform [Open Sea](https://opensea.io/collection/rainshell-pinksunset).
+Dr. Yuxiao (Rain) Luo, is an Assistant Professor in Information Systems. His research interests include AI nudging, Gen AI, Cybersecurity, and CSR. He is currently teaching Introduction to Business Analytics & AI, Business Systems, and Cybersecurity. Before, he was an independent music producer. Check out his music at the NFT platform [Open Sea](https://opensea.io/collection/rainshell-pinksunset).
