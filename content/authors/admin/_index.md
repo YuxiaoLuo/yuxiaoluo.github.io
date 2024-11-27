@@ -51,7 +51,7 @@ interests:
 
 education:
   - area: PhD in Management Information Systems (Business)
-    institution: The Graduate Center/Baruch College, City University of New York
+    institution: The Graduate Center & Baruch College, City University of New York
     date_start: ''
     date_end: 2023-12-01
     summary: |
