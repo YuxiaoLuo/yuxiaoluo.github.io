@@ -53,7 +53,7 @@ education:
   - area: PhD in Management Information Systems (Business)
     institution: The Graduate Center & Baruch College, City University of New York
     date_start: ''
-    date_end: 2023
+    date_end: 2023-12-01
     summary: |
       Dissertation title "Investigation of Algorithmic Nudging on Decision Quality: Evidence from Randomized Experiments in Online Recommendation Settings."
     button:
@@ -62,7 +62,7 @@ education:
   - area: MS in Applied Statistics & Decision Making
     institution: Fordham University
     date_start: ''
-    date_end: 2017
+    date_end: 2017-02-01
   
 work:
   - position: Assitant Professor in Computer Information Systems
@@ -71,12 +71,11 @@ work:
     # company_logo: ''
     date_start: 2024-01-19
     date_end: ''
-    #summary: |2-
-      #Responsibilities include:
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+    summary: |2-
+      Responsibility:
+      - Curriculum committee member (AI & Analytics)
+      - AI Task Force for Walker College of Business
+     
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -133,5 +132,5 @@ languages:
 
 ## About Me
 
-Dr. Yuxiao (Rain) Luo, is an Assistant Professor in Information Systems. His research interests include AI nudging, Gen AI, Cybersecurity, and CSR. He teaches courses in business college, including programming analytics, AI, and cybersecurity. He created an open-source book as teaching materials for data analytics, [Data Analytics in Digital Research with R
+Dr. Yuxiao (Rain) Luo, is an Assistant Professor in Information Systems. His research interests include AI nudging, Gen AI, Cybersecurity, and CSR. He teaches courses in business college, including programming analytics, AI, and cybersecurity. He is on the Executive Board of New England Chapter of AIS ([NEAIS](https://communities.aisnet.org/newenglandusachapter/aboutneais)). He created an open-source book as teaching materials for data analytics, [Data Analytics in Digital Research with R
 ](https://gcdf-cuny.gitbook.io/data-analytics-in-digital-research-with-r). Before, he was an independent music producer. Check out his music at the NFT platform [Open Sea](https://opensea.io/collection/rainshell-pinksunset).
