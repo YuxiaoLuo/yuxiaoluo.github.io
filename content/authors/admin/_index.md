@@ -52,8 +52,8 @@ interests:
 education:
   - area: PhD in Management Information Systems (Business)
     institution: The Graduate Center & Baruch College, City University of New York
-    date_start: ''
-    date_end: ''
+    #date_start: ''
+    #date_end: ''
     summary: |
       Dissertation title "Investigation of Algorithmic Nudging on Decision Quality: Evidence from Randomized Experiments in Online Recommendation Settings."
     #button:
@@ -61,8 +61,8 @@ education:
     #  url: 'https://academicworks.cuny.edu/gc_etds/5678/'
   - area: MS in Applied Statistics & Decision Making
     institution: Fordham University
-    date_start: ''
-    date_end: ''
+    #date_start: ''
+    #date_end: ''
   
 work:
   - position: Assitant Professor in Computer Information Systems
