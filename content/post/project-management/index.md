@@ -1,94 +1,27 @@
 ---
 title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+summary: This is a chatbot that can answer all questions related to CIS1060 taught by Dr. Yuxiao Luo.
+date: 2024-11-26
 authors:
-  - admin
+  - Dr. Yuxiao (Rain) Luo
 tags:
-  - Hugo Blox
-  - Markdown
+  - cis1060
+  - course chatbot
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+## Note: This chatbot may provide inaccurate response, please always refer to the Syllabus and Course Schedule document for details. 
 
-## Ideation
-
-Hugo Blox supports a Markdown extension for mindmaps.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
+<!-- Chatbot HTML code -->
+<div id="chatbot">
+  <iframe
+    src="https://copilotstudio.microsoft.com/environments/Default-0f1fb691-2393-48df-971c-93aa52a95600/bots/cre42_copilot_ciLg9/webchat?__version__=2"
+    width="400"
+    height="500"
+    style="border: none;">
+  </iframe>
 </div>
 
-renders as
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
+## If you feel the answer provided by CIS1060-Dr.Luo chatbot is not helpful, don't hesitate to contact Dr. Luo via email or schedule office hours with him 🙌
