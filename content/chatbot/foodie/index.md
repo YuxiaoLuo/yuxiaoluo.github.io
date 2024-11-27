@@ -42,7 +42,7 @@ tags:
 <div class="wrapper">
   <div class="chat-container">
     <iframe
-      src="https://copilotstudio.microsoft.com/environments/Default-0f1fb691-2393-48df-971c-93aa52a95600/bots/cre42_copilot_ciLg9/webchat?__version__=2">
+      src="https://copilotstudio.microsoft.com/environments/Default-0f1fb691-2393-48df-971c-93aa52a95600/bots/cre42_foodieGptRain/webchat?__version__=2">
     </iframe>
   </div>
 </div>
