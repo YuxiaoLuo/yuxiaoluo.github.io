@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Dr. Yuxiao (Rain) Luo"
+      text: ""
 
 # Site footer
 footer:
