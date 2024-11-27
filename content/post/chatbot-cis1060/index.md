@@ -52,4 +52,4 @@ Ask any coursework related questions to the Chatbot below.
 </div>
 
 
-If you feel the answer provided by CIS1060-Dr.Luo chatbot is not accurate or not helpful, don't hesitate to contact Dr. Luo via email or schedule office hours with him 🙌
+If you feel the response provided by CIS1060-Dr.Luo chatbot is not accurate or not helpful, don't hesitate to contact Dr. Luo via email or schedule office hours with him 🙌
