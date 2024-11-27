@@ -1,7 +1,7 @@
 ---
 title: CIS1060-Dr.Luo
 date: 2024-11-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://yuxiaoluo.github.io/post/chatbot-cis1060
 tags:
   - CIS1060
   - Course chatbot
