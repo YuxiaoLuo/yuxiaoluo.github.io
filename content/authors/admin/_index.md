@@ -71,10 +71,11 @@ work:
     # company_logo: ''
     date_start: 2024-01-19
     date_end: ''
-    summary: |2-
+    # |2- means ident 2 spaces below
+    summary: |
       Responsibilities:
-      Curriculum committee member (AI & Analytics)
-      AI Task Force for Walker College of Business
+      - Curriculum committee member (AI & Analytics)
+      - AI task force
      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -128,6 +129,14 @@ languages:
     #summary: |
     #  I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with #the significant technological trends driving the rise of deep learning; build, train, and apply fully #connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters #in a neural network’s architecture; and apply deep learning to your own applications.
 
+awards:
+  - title: Doctoral Student Research Grant 2022 (The Graduate Center, CUNY)
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    summary: |
+     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with #the significant technological trends driving the rise of deep learning; build, train, and apply fully #connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters #in a neural network’s architecture; and apply deep learning to your own applications.
 ---
 
 ## About Me
