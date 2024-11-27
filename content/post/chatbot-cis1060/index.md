@@ -1,5 +1,5 @@
 ---
-title: ✅ CIS1060-Dr.Luo Chatbot
+title: 🤖 CIS1060-Dr.Luo Chatbot
 summary: This is a chatbot that can answer all questions related to CIS1060 taught by Dr. Yuxiao Luo.
 date: 2024-11-26
 authors:
