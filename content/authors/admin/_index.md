@@ -131,7 +131,7 @@ languages:
 
 awards:
   - title: Doctoral Student Research Grant
-    date: '2020-09-01' '2022-09-01'
+    date: '2022-09-01'
     awarder: The Graduate Center (CUNY)
 
   - title: Donald Vredenburgh Research Grant 
@@ -145,6 +145,11 @@ awards:
 
   - title: Digital Fellow Scholarship (2020 - 2023)
     url: https://gcdi.commons.gc.cuny.edu/people/#digfel
+    date: '2020-09-01'
+    awarder: The Graduate Center (CUNY)
+
+  - title: Doctoral Student Research Grant
+    date: '2020-05-01' 
     awarder: The Graduate Center (CUNY)
 
   - title: Data For Public Good Grant
